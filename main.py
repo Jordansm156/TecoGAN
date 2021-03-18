@@ -19,7 +19,7 @@ rn.seed(12345)
 #tf.set_random_seed(1234)
 tf.random.set_seed(1234)
 
-import tensorflow.contrib.slim as slim
+#import tensorflow.contrib.slim as slim
 import sys, shutil, subprocess
 
 from lib.ops import *
